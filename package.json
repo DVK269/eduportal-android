@@ -1,0 +1,19 @@
+{
+  "name": "eduportal-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EduPortal student registration - Android app (Capacitor)",
+  "scripts": {
+    "apk": "node scripts/build-apk.js",
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0"
+  }
+}

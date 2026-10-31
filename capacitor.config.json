@@ -1,0 +1,9 @@
+{
+  "appId": "com.eduportal.registration",
+  "appName": "EduPortal",
+  "webDir": "www",
+  "backgroundColor": "#f3f4f6",
+  "android": {
+    "allowMixedContent": false
+  }
+}
